@@ -1,0 +1,12 @@
+[submodule "libs/wg_utils"]
+	path = libs/wg_utils
+	url = https://github.com/desine-sperare/wg_utils
+[submodule "libs/json"]
+	path = libs/json
+	url = https://github.com/nlohmann/json.git
+[submodule "libs/ipv4"]
+	path = libs/ipv4
+	url = https://github.com/desine-sperare/ipv4
+[submodule "libs/uuid"]
+	path = libs/uuid
+	url = https://github.com/desine-sperare/uuid
